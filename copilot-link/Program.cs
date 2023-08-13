@@ -15,10 +15,30 @@ List<Student> students = new List<Student> {
     new Student {First = "Terry", Last = "Adams", Id = 120, Scores = new List<int> {99, 82, 81, 79}},
     new Student {First = "Eugene", Last = "Zabokritski", Id = 121, Scores = new List<int> {96, 85, 91, 60}},
     new Student {First = "Michael", Last = "Tucker", Id = 122, Scores = new List<int> {94, 92, 91, 91}},
+    //generate a new student with a different last, first name and id
+    new Student {First = "John", Last = "Doe", Id = 123, Scores = new List<int> {94, 92, 91, 91}}
+
 };
 
-foreach (Student student in students)
+//create a list of students whose score is greater than 85
+var studentQuery1 =
+    from student in students
+    where student.Scores[0] > 85
+    //orderby student first score descending
+    orderby student.Scores[0] descending
+    select student;
+
+
+    //execute the query to print out the student's information
+foreach (Student student in studentQuery1)
+{
+    //Console.WriteLine($"Last: {student.Last}, First: {student.First}, ID: {student.Id} ScoresCount: {student?.Scores?.Count()}");
+    //print out the student name and test score
+    Console.WriteLine($"Last: {student.Last}, First: {student.First}, ID: {student.Id} Score: {student.Scores?[0]}");
+};
+
+/* foreach (Student student in students)
 {
     Console.WriteLine($"Last: {student.Last}, First: {student.First}, ID: {student.Id} ScoresCount: {student?.Scores?.Count()}");
 };
-
+ */

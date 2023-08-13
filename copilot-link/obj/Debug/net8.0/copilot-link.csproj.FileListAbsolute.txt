@@ -12,3 +12,4 @@ c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\o
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.pdb
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.genruntimeconfig.cache
 c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\ref\copilot-link.dll
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.sourcelink.json

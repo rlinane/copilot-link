@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("copilot-link")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dafd3aab9b325c2d409601594a8226e24d480e82")]
 [assembly: System.Reflection.AssemblyProductAttribute("copilot-link")]
 [assembly: System.Reflection.AssemblyTitleAttribute("copilot-link")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
