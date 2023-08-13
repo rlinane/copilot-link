@@ -1,0 +1,14 @@
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\bin\Debug\net8.0\copilot-link.exe
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\bin\Debug\net8.0\copilot-link.deps.json
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\bin\Debug\net8.0\copilot-link.runtimeconfig.json
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\bin\Debug\net8.0\copilot-link.dll
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\bin\Debug\net8.0\copilot-link.pdb
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.AssemblyInfoInputs.cache
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.AssemblyInfo.cs
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.csproj.CoreCompileInputs.cache
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.dll
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\refint\copilot-link.dll
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.pdb
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\copilot-link.genruntimeconfig.cache
+c:\Users\Rich Linane\Google Drive\Development\vscode\copilot-link\copilot-link\obj\Debug\net8.0\ref\copilot-link.dll
